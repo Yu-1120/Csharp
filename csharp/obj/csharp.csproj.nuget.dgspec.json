@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\桌面\\csharp\\csharp.csproj": {}
+    "E:\\GitHub\\Csharp\\csharp\\csharp.csproj": {}
   },
   "projects": {
-    "E:\\桌面\\csharp\\csharp.csproj": {
+    "E:\\GitHub\\Csharp\\csharp\\csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\桌面\\csharp\\csharp.csproj",
+        "projectUniqueName": "E:\\GitHub\\Csharp\\csharp\\csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "E:\\桌面\\csharp\\csharp.csproj",
+        "projectPath": "E:\\GitHub\\Csharp\\csharp\\csharp.csproj",
         "packagesPath": "C:\\Users\\11868\\.nuget\\packages\\",
-        "outputPath": "E:\\桌面\\csharp\\obj\\",
+        "outputPath": "E:\\GitHub\\Csharp\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\11868\\AppData\\Roaming\\NuGet\\NuGet.Config",
